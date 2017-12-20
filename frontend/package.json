@@ -9,6 +9,7 @@
     "react-scripts": "1.0.17",
     "react-modal": "^2.2.2",
     "react-icons": "^2.2.5",
+    "react-loading": "^0.1.4",
     "redux": "^3.7.2"
   },
   "scripts": {
