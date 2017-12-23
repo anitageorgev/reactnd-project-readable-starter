@@ -106,7 +106,7 @@ class App extends Component {
 function mapStateToProps({listOfPosts, tempPost}){
   console.log('mapping state to props');
     return {
-      listOfPosts : tempPost
+      listOfPosts 
     };
 
 }
